@@ -3,7 +3,7 @@
   "displayName": "C# Expression-bodied props",
   "description": "Snippet for Expression-bodied props",
   "version": "1.0.0",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "publisher": "navidJL",
   "license": "MIT",
   "repository": {
