@@ -28,11 +28,11 @@
     "snippets": [
       {
         "language": "csharp",
-        "path": "./snippets/prope.code-snippets.json"
+        "path": "./snippets/prope.code-snippets"
       },
       {
         "language": "csharp",
-        "path": "./snippets/propef.code-snippets.json"
+        "path": "./snippets/propef.code-snippets"
       }
     ]
   }
