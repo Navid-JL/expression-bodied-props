@@ -1,0 +1,39 @@
+{
+  "name": "expression-bodied-props",
+  "displayName": "C# Expression-bodied props",
+  "description": "Snippet for Expression-bodied props",
+  "version": "1.0.0",
+  "icon": "./icon.png",
+  "publisher": "navidJL",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Navid-JL/expression-bodied-props.git"
+  },
+  "engines": {
+    "vscode": "^1.78.x"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "c#",
+    "csharp",
+    ".NET",
+    "ASP.NET",
+    ".NET Core",
+    "dotnet"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "csharp",
+        "path": "./snippets/prope.code-snippets.json"
+      },
+      {
+        "language": "csharp",
+        "path": "./snippets/propef.code-snippets.json"
+      }
+    ]
+  }
+}

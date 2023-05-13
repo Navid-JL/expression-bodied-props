@@ -1,0 +1,15 @@
+{
+    "Full Expression-bodied Property": {
+        "scope": "csharp,cs",
+        "prefix": "propef",
+        "body": [
+            "private ${1:int} ${2:myVar};",
+            "public ${1:int} ${3:myProperty}",
+            "{",
+            "   get => ${2:myVar};",
+            "   set => ${2:myVar} = value;",
+            "}"
+        ],
+        "description": "Generates an expression-bodied property with a private field"
+    }
+}
