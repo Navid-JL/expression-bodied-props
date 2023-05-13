@@ -13,8 +13,8 @@ prope -> Generates an expression-bodied property
 propef -> Generates an expression-bodied property with a private field
 ```
 
-![prope](https://github.com/Navid-JL/expression-bodied-props/tree/main/feature-images/prope.gif)
-![propef](https://github.com/Navid-JL/expression-bodied-props/tree/main/feature-images/propef.gif)
+![prope](https://github.com/Navid-JL/expression-bodied-props/blob/main/feature-images/prope.gif)
+![propef](https://github.com/Navid-JL/expression-bodied-props/blob/main/feature-images/propef.gif)
 
 ## Features
 
